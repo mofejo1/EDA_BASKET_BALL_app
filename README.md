@@ -17,7 +17,7 @@ BASKETBALLEDA/
 
 ### Basic Version (`EDA_BASKET_BALL_app.py`)
 
-- 📊 **Historical Data Access**: Browse NBA player statistics from 1950 to present
+- 📊 **Historical Data Access**: Browse NBA player statistics from 2020 to present
 - 🏀 **Team & Position Filtering**: Filter players by team and position
 - 📈 **Correlation Heatmap**: Generate correlation matrix for statistical analysis
 - 💾 **Data Export**: Download filtered data as CSV files
@@ -97,7 +97,7 @@ The app will open in your browser at `http://localhost:8501`
 
 ### Basic Version Interface
 
-1. **Year Selection**: Choose any NBA season from 1950 to current year
+1. **Year Selection**: Choose any NBA season from 2020 to current year
 2. **Team Filter**: Select one or multiple teams
 3. **Position Filter**: Choose player positions (C, PF, SF, PG, SG)
 4. **Data Display**: View filtered statistics in an interactive table
