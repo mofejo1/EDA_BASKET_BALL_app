@@ -39,7 +39,7 @@ st.sidebar.header('🎯 User Input Features')
 current_year = datetime.now().year
 selected_year = st.sidebar.selectbox(
     'Select Year', 
-    list(reversed(range(1950, current_year))),
+    list(reversed(range(2000, current_year))),
     help="Choose the NBA season year"
 )
 
